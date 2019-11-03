@@ -20,6 +20,7 @@ Function to send email with SendGrid
 .Description
 A function to send a text or HTML based email
 See https://sendgrid.com/docs/API_Reference/api_v3.html for API details
+This script provided as-is with no warranty. Test it before you trust it.
 www.ciraltos.com
 
 .Parameter apiKey
